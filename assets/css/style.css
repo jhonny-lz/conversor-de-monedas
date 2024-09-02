@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color:azure;
+    padding: 20px;
+    max-width: 80%;
+    width: 400px;
+    height: 600px;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+
+input {
+    padding: 10px;
+    margin-right: 20px;
+    background-color: white;
+    margin-bottom: 20px;
+}
+
+.moneda {
+    padding: 10px;
+    margin-right: 20px;
+    background-color: white;
+    margin-bottom: 20px;
+}
+
+button {
+    padding: 10px;
+    margin-right: 20px;
+    background-color: white;
+    margin-bottom: 20px;
+}
